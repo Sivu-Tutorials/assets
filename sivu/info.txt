@@ -1,0 +1,5 @@
+font name: ArimaKoshi-Thin
+font link: https://fonts.google.com/specimen/Arima+Madurai
+        
+{"bg":"transparent","icon-gradient-0":"#006678","icon-gradient-1":"#4FA8FF","font":"#000000","slogan":"#141414"}
+      
